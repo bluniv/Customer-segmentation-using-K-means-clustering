@@ -1,3 +1,4 @@
-*Task 2*
+# Customer Segmentation using K-means Clustering
 
-Create a K-means Clustering algorithm to group customers of a retail shore based on their purchase history
+We will create a K-means Clustering algorithm to group customers of a retail shore based on their purchase history
+
